@@ -1,136 +1,129 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
-    <Machine>AYUSH</Machine>
-    <WindowsUser>ayush%27s</WindowsUser>
-    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <Machine>CHRIS</Machine>
+    <WindowsUser>Zeph3ron</WindowsUser>
     <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
     <PackageArchitecture>neutral</PackageArchitecture>
     <PackageIdentityName>c228c39a-f8a6-4806-b6c6-a89f4812bae7</PackageIdentityName>
-    <IntermediateOutputPath>C:\Users\ayush%27s\Documents\Visual Studio 2013\Projects\Tourist App Version 1.0\Tourist App Version 1.0\obj\Debug\</IntermediateOutputPath>
-    <RegisteredManifestChecksum>F947EAE6A6D56673E7BA6BD0A310D0E70E06C28A0A3EFBDDCBA39413D4C44F2F</RegisteredManifestChecksum>
+    <RegisteredManifestChecksum>23EF84CEC5E22A16D3E6DF3024CEE6A8938369DD5E36A72218712A2EE5A4AA2B</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>c228c39a-f8a6-4806-b6c6-a89f4812bae7_1.0.0.0_neutral__nanbqp3p9xvat</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>c228c39a-f8a6-4806-b6c6-a89f4812bae7_nanbqp3p9xvat!App</RegisteredUserModeAppID>
     <RegisteredPackageID>c228c39a-f8a6-4806-b6c6-a89f4812bae7</RegisteredPackageID>
     <RegisteredPackagePublisher>CN=ayush's</RegisteredPackagePublisher>
     <RegisteredVersion>1.0.0.0</RegisteredVersion>
-    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\ayush%27s\Documents\Visual Studio 2013\Projects\Tourist App Version 1.0\Tourist App Version 1.0\bin\Debug\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\Zeph3ron\Documents\Visual Studio 2013\Projects\touristappversion2\Tourist App Version 1.0\bin\Debug\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2014-09-18T23:42:08.732</Modified>
+      <Modified>2014-09-29T20:58:19.911</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\ayush%27s\Documents\Visual Studio 2013\Projects\Tourist App Version 1.0\Tourist App Version 1.0\bin\Debug\Tourist App Version 1.0.exe">
+    <AppxPackagedFile Include="C:\Users\Zeph3ron\Documents\Visual Studio 2013\Projects\touristappversion2\Tourist App Version 1.0\bin\Debug\Tourist App Version 1.0.exe">
       <PackagePath>Tourist App Version 1.0.exe</PackagePath>
-      <Modified>2014-09-18T23:42:08.350</Modified>
+      <Modified>2014-09-29T20:58:18.573</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ayush%27s\Documents\Visual Studio 2013\Projects\Tourist App Version 1.0\Tourist App Version 1.0\Assets\background2.jpg">
+    <AppxPackagedFile Include="C:\Users\Zeph3ron\Documents\Visual Studio 2013\Projects\touristappversion2\Tourist App Version 1.0\Assets\background2.jpg">
       <PackagePath>Assets\background2.jpg</PackagePath>
-      <Modified>2014-09-18T23:35:31.439</Modified>
+      <Modified>2014-09-29T20:56:47.037</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ayush%27s\Documents\Visual Studio 2013\Projects\Tourist App Version 1.0\Tourist App Version 1.0\Assets\background.jpg">
+    <AppxPackagedFile Include="C:\Users\Zeph3ron\Documents\Visual Studio 2013\Projects\touristappversion2\Tourist App Version 1.0\Assets\background.jpg">
       <PackagePath>Assets\background.jpg</PackagePath>
-      <Modified>2014-09-18T23:30:18.104</Modified>
+      <Modified>2014-09-29T20:56:47.010</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ayush%27s\Documents\Visual Studio 2013\Projects\Tourist App Version 1.0\Tourist App Version 1.0\Assets\Café Vivaldi.jpg">
+    <AppxPackagedFile Include="C:\Users\Zeph3ron\Documents\Visual Studio 2013\Projects\touristappversion2\Tourist App Version 1.0\Assets\Café Vivaldi.jpg">
       <PackagePath>Assets\Café Vivaldi.jpg</PackagePath>
-      <Modified>2014-09-18T23:40:01.358</Modified>
+      <Modified>2014-09-29T20:56:46.952</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ayush%27s\Documents\Visual Studio 2013\Projects\Tourist App Version 1.0\Tourist App Version 1.0\Assets\Le Fiesta.jpg">
+    <AppxPackagedFile Include="C:\Users\Zeph3ron\Documents\Visual Studio 2013\Projects\touristappversion2\Tourist App Version 1.0\Assets\Le Fiesta.jpg">
       <PackagePath>Assets\Le Fiesta.jpg</PackagePath>
-      <Modified>2014-09-18T23:40:01.364</Modified>
+      <Modified>2014-09-29T20:56:46.966</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ayush%27s\Documents\Visual Studio 2013\Projects\Tourist App Version 1.0\Tourist App Version 1.0\Assets\Restaurant Mumm.jpg">
+    <AppxPackagedFile Include="C:\Users\Zeph3ron\Documents\Visual Studio 2013\Projects\touristappversion2\Tourist App Version 1.0\Assets\Restaurant Mumm.jpg">
       <PackagePath>Assets\Restaurant Mumm.jpg</PackagePath>
-      <Modified>2014-09-18T23:41:31.509</Modified>
+      <Modified>2014-09-29T20:56:46.994</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ayush%27s\Documents\Visual Studio 2013\Projects\Tourist App Version 1.0\Tourist App Version 1.0\Assets\roskilde cathedral.jpg">
+    <AppxPackagedFile Include="C:\Users\Zeph3ron\Documents\Visual Studio 2013\Projects\touristappversion2\Tourist App Version 1.0\Assets\roskilde cathedral.jpg">
       <PackagePath>Assets\roskilde cathedral.jpg</PackagePath>
-      <Modified>2014-09-18T23:20:14.295</Modified>
+      <Modified>2014-09-29T20:56:47.066</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ayush%27s\Documents\Visual Studio 2013\Projects\Tourist App Version 1.0\Tourist App Version 1.0\Assets\roskilde congress.jpg">
+    <AppxPackagedFile Include="C:\Users\Zeph3ron\Documents\Visual Studio 2013\Projects\touristappversion2\Tourist App Version 1.0\Assets\roskilde congress.jpg">
       <PackagePath>Assets\roskilde congress.jpg</PackagePath>
-      <Modified>2014-09-18T23:18:40.105</Modified>
+      <Modified>2014-09-29T20:56:47.102</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ayush%27s\Documents\Visual Studio 2013\Projects\Tourist App Version 1.0\Tourist App Version 1.0\Assets\Roskilde Library.jpg">
+    <AppxPackagedFile Include="C:\Users\Zeph3ron\Documents\Visual Studio 2013\Projects\touristappversion2\Tourist App Version 1.0\Assets\Roskilde Library.jpg">
       <PackagePath>Assets\Roskilde Library.jpg</PackagePath>
-      <Modified>2014-09-18T23:23:48.132</Modified>
+      <Modified>2014-09-29T20:56:46.999</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ayush%27s\Documents\Visual Studio 2013\Projects\Tourist App Version 1.0\Tourist App Version 1.0\Assets\sports.jpg">
+    <AppxPackagedFile Include="C:\Users\Zeph3ron\Documents\Visual Studio 2013\Projects\touristappversion2\Tourist App Version 1.0\Assets\sports.jpg">
       <PackagePath>Assets\sports.jpg</PackagePath>
-      <Modified>2014-09-18T23:14:39.192</Modified>
+      <Modified>2014-09-29T20:56:47.109</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ayush%27s\Documents\Visual Studio 2013\Projects\Tourist App Version 1.0\Tourist App Version 1.0\Assets\police.jpg">
+    <AppxPackagedFile Include="C:\Users\Zeph3ron\Documents\Visual Studio 2013\Projects\touristappversion2\Tourist App Version 1.0\Assets\police.jpg">
       <PackagePath>Assets\police.jpg</PackagePath>
-      <Modified>2014-09-18T23:12:33.551</Modified>
+      <Modified>2014-09-29T20:56:47.057</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ayush%27s\Documents\Visual Studio 2013\Projects\Tourist App Version 1.0\Tourist App Version 1.0\Images\P4240335.JPG">
+    <AppxPackagedFile Include="C:\Users\Zeph3ron\Documents\Visual Studio 2013\Projects\touristappversion2\Tourist App Version 1.0\Images\P4240335.JPG">
       <PackagePath>Images\P4240335.JPG</PackagePath>
-      <Modified>2014-09-18T23:07:27.003</Modified>
+      <Modified>2014-09-29T20:56:47.260</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ayush%27s\Documents\Visual Studio 2013\Projects\Tourist App Version 1.0\Tourist App Version 1.0\DataModel\SampleData.json">
+    <AppxPackagedFile Include="C:\Users\Zeph3ron\Documents\Visual Studio 2013\Projects\touristappversion2\Tourist App Version 1.0\DataModel\SampleData.json">
       <PackagePath>DataModel\SampleData.json</PackagePath>
-      <Modified>2014-09-18T23:44:46.145</Modified>
+      <Modified>2014-09-29T20:56:47.197</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ayush%27s\Documents\Visual Studio 2013\Projects\Tourist App Version 1.0\Tourist App Version 1.0\Assets\Logo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Zeph3ron\Documents\Visual Studio 2013\Projects\touristappversion2\Tourist App Version 1.0\Assets\Logo.scale-100.png">
       <PackagePath>Assets\Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2013-07-23T13:01:02.000</Modified>
+      <Modified>2014-09-29T20:56:46.985</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ayush%27s\Documents\Visual Studio 2013\Projects\Tourist App Version 1.0\Tourist App Version 1.0\Assets\SmallLogo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Zeph3ron\Documents\Visual Studio 2013\Projects\touristappversion2\Tourist App Version 1.0\Assets\SmallLogo.scale-100.png">
       <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2013-07-23T13:01:02.000</Modified>
+      <Modified>2014-09-29T20:56:47.001</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ayush%27s\Documents\Visual Studio 2013\Projects\Tourist App Version 1.0\Tourist App Version 1.0\Assets\SplashScreen.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Zeph3ron\Documents\Visual Studio 2013\Projects\touristappversion2\Tourist App Version 1.0\Assets\SplashScreen.scale-100.png">
       <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2013-07-23T13:01:02.000</Modified>
+      <Modified>2014-09-29T20:56:47.003</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ayush%27s\Documents\Visual Studio 2013\Projects\Tourist App Version 1.0\Tourist App Version 1.0\Assets\StoreLogo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Zeph3ron\Documents\Visual Studio 2013\Projects\touristappversion2\Tourist App Version 1.0\Assets\StoreLogo.scale-100.png">
       <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2013-07-23T13:01:02.000</Modified>
+      <Modified>2014-09-29T20:56:47.005</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ayush%27s\Documents\Visual Studio 2013\Projects\Tourist App Version 1.0\Tourist App Version 1.0\Assets\LightGray.png">
+    <AppxPackagedFile Include="C:\Users\Zeph3ron\Documents\Visual Studio 2013\Projects\touristappversion2\Tourist App Version 1.0\Assets\LightGray.png">
       <PackagePath>Assets\LightGray.png</PackagePath>
-      <Modified>2013-07-23T13:01:02.000</Modified>
+      <Modified>2014-09-29T20:56:46.983</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ayush%27s\Documents\Visual Studio 2013\Projects\Tourist App Version 1.0\Tourist App Version 1.0\Assets\MediumGray.png">
+    <AppxPackagedFile Include="C:\Users\Zeph3ron\Documents\Visual Studio 2013\Projects\touristappversion2\Tourist App Version 1.0\Assets\MediumGray.png">
       <PackagePath>Assets\MediumGray.png</PackagePath>
-      <Modified>2013-07-23T13:01:02.000</Modified>
+      <Modified>2014-09-29T20:56:46.987</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ayush%27s\Documents\Visual Studio 2013\Projects\Tourist App Version 1.0\Tourist App Version 1.0\Assets\DarkGray.png">
+    <AppxPackagedFile Include="C:\Users\Zeph3ron\Documents\Visual Studio 2013\Projects\touristappversion2\Tourist App Version 1.0\Assets\DarkGray.png">
       <PackagePath>Assets\DarkGray.png</PackagePath>
-      <Modified>2013-07-23T13:01:02.000</Modified>
+      <Modified>2014-09-29T20:56:46.954</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ayush%27s\Documents\Visual Studio 2013\Projects\Tourist App Version 1.0\Tourist App Version 1.0\bin\Debug\App.xbf">
+    <AppxPackagedFile Include="C:\Users\Zeph3ron\Documents\Visual Studio 2013\Projects\touristappversion2\Tourist App Version 1.0\bin\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
-      <Modified>2014-09-18T23:04:45.316</Modified>
+      <Modified>2014-09-29T20:56:47.900</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ayush%27s\Documents\Visual Studio 2013\Projects\Tourist App Version 1.0\Tourist App Version 1.0\bin\Debug\GroupedItemsPage.xbf">
+    <AppxPackagedFile Include="C:\Users\Zeph3ron\Documents\Visual Studio 2013\Projects\touristappversion2\Tourist App Version 1.0\bin\Debug\GroupedItemsPage.xbf">
       <PackagePath>GroupedItemsPage.xbf</PackagePath>
-      <Modified>2014-09-18T23:42:07.631</Modified>
+      <Modified>2014-09-29T20:56:47.971</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ayush%27s\Documents\Visual Studio 2013\Projects\Tourist App Version 1.0\Tourist App Version 1.0\bin\Debug\GroupDetailPage.xbf">
+    <AppxPackagedFile Include="C:\Users\Zeph3ron\Documents\Visual Studio 2013\Projects\touristappversion2\Tourist App Version 1.0\bin\Debug\GroupDetailPage.xbf">
       <PackagePath>GroupDetailPage.xbf</PackagePath>
-      <Modified>2014-09-18T23:42:07.637</Modified>
+      <Modified>2014-09-29T20:56:47.944</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ayush%27s\Documents\Visual Studio 2013\Projects\Tourist App Version 1.0\Tourist App Version 1.0\bin\Debug\ItemDetailPage.xbf">
+    <AppxPackagedFile Include="C:\Users\Zeph3ron\Documents\Visual Studio 2013\Projects\touristappversion2\Tourist App Version 1.0\bin\Debug\ItemDetailPage.xbf">
       <PackagePath>ItemDetailPage.xbf</PackagePath>
-      <Modified>2014-09-18T23:42:07.638</Modified>
+      <Modified>2014-09-29T20:56:48.002</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ayush%27s\Documents\Visual Studio 2013\Projects\Tourist App Version 1.0\Tourist App Version 1.0\bin\Debug\Tourist App Version 1.0.xr.xml">
-      <PackagePath>Tourist App Version 1.0.xr.xml</PackagePath>
-      <Modified>2014-09-18T23:02:12.531</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ayush%27s\Documents\Visual Studio 2013\Projects\Tourist App Version 1.0\Tourist App Version 1.0\bin\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\Users\Zeph3ron\Documents\Visual Studio 2013\Projects\touristappversion2\Tourist App Version 1.0\bin\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2014-09-18T23:42:08.536</Modified>
+      <Modified>2014-09-29T20:58:19.200</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
