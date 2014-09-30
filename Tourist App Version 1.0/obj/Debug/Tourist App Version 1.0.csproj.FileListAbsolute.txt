@@ -40,3 +40,44 @@ c:\users\ayush's\documents\visual studio 2013\Projects\Tourist App Version 1.0\T
 c:\users\ayush's\documents\visual studio 2013\Projects\Tourist App Version 1.0\Tourist App Version 1.0\obj\Debug\qualifiers.txt.intermediate
 c:\users\ayush's\documents\visual studio 2013\Projects\Tourist App Version 1.0\Tourist App Version 1.0\obj\Debug\MultipleQualifiersPerDimensionFound.txt
 c:\users\ayush's\documents\visual studio 2013\Projects\Tourist App Version 1.0\Tourist App Version 1.0\obj\Debug\ProjectArchitectures.txt
+C:\Users\Zeph3ron\Documents\Visual Studio 2013\Projects\touristappversion2\Tourist App Version 1.0\bin\Debug\App.xbf
+C:\Users\Zeph3ron\Documents\Visual Studio 2013\Projects\touristappversion2\Tourist App Version 1.0\bin\Debug\GroupedItemsPage.xbf
+C:\Users\Zeph3ron\Documents\Visual Studio 2013\Projects\touristappversion2\Tourist App Version 1.0\bin\Debug\GroupDetailPage.xbf
+C:\Users\Zeph3ron\Documents\Visual Studio 2013\Projects\touristappversion2\Tourist App Version 1.0\bin\Debug\ItemDetailPage.xbf
+C:\Users\Zeph3ron\Documents\Visual Studio 2013\Projects\touristappversion2\Tourist App Version 1.0\bin\Debug\Tourist App Version 1.0.exe
+C:\Users\Zeph3ron\Documents\Visual Studio 2013\Projects\touristappversion2\Tourist App Version 1.0\bin\Debug\Tourist App Version 1.0.pdb
+C:\Users\Zeph3ron\Documents\Visual Studio 2013\Projects\touristappversion2\Tourist App Version 1.0\bin\Debug\resources.pri
+C:\Users\Zeph3ron\Documents\Visual Studio 2013\Projects\touristappversion2\Tourist App Version 1.0\bin\Debug\AppxManifest.xml
+C:\Users\Zeph3ron\Documents\Visual Studio 2013\Projects\touristappversion2\Tourist App Version 1.0\bin\Debug\Tourist App Version 1.0.build.appxrecipe
+C:\Users\Zeph3ron\Documents\Visual Studio 2013\Projects\touristappversion2\Tourist App Version 1.0\obj\Debug\App.g.i.cs
+C:\Users\Zeph3ron\Documents\Visual Studio 2013\Projects\touristappversion2\Tourist App Version 1.0\obj\Debug\App.g.cs
+C:\Users\Zeph3ron\Documents\Visual Studio 2013\Projects\touristappversion2\Tourist App Version 1.0\obj\Debug\GroupedItemsPage.g.i.cs
+C:\Users\Zeph3ron\Documents\Visual Studio 2013\Projects\touristappversion2\Tourist App Version 1.0\obj\Debug\GroupedItemsPage.g.cs
+C:\Users\Zeph3ron\Documents\Visual Studio 2013\Projects\touristappversion2\Tourist App Version 1.0\obj\Debug\GroupDetailPage.g.i.cs
+C:\Users\Zeph3ron\Documents\Visual Studio 2013\Projects\touristappversion2\Tourist App Version 1.0\obj\Debug\GroupDetailPage.g.cs
+C:\Users\Zeph3ron\Documents\Visual Studio 2013\Projects\touristappversion2\Tourist App Version 1.0\obj\Debug\ItemDetailPage.g.i.cs
+C:\Users\Zeph3ron\Documents\Visual Studio 2013\Projects\touristappversion2\Tourist App Version 1.0\obj\Debug\ItemDetailPage.g.cs
+C:\Users\Zeph3ron\Documents\Visual Studio 2013\Projects\touristappversion2\Tourist App Version 1.0\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Zeph3ron\Documents\Visual Studio 2013\Projects\touristappversion2\Tourist App Version 1.0\obj\Debug\App.xaml
+C:\Users\Zeph3ron\Documents\Visual Studio 2013\Projects\touristappversion2\Tourist App Version 1.0\obj\Debug\GroupedItemsPage.xaml
+C:\Users\Zeph3ron\Documents\Visual Studio 2013\Projects\touristappversion2\Tourist App Version 1.0\obj\Debug\GroupDetailPage.xaml
+C:\Users\Zeph3ron\Documents\Visual Studio 2013\Projects\touristappversion2\Tourist App Version 1.0\obj\Debug\ItemDetailPage.xaml
+C:\Users\Zeph3ron\Documents\Visual Studio 2013\Projects\touristappversion2\Tourist App Version 1.0\obj\Debug\App.xbf
+C:\Users\Zeph3ron\Documents\Visual Studio 2013\Projects\touristappversion2\Tourist App Version 1.0\obj\Debug\GroupedItemsPage.xbf
+C:\Users\Zeph3ron\Documents\Visual Studio 2013\Projects\touristappversion2\Tourist App Version 1.0\obj\Debug\GroupDetailPage.xbf
+C:\Users\Zeph3ron\Documents\Visual Studio 2013\Projects\touristappversion2\Tourist App Version 1.0\obj\Debug\ItemDetailPage.xbf
+C:\Users\Zeph3ron\Documents\Visual Studio 2013\Projects\touristappversion2\Tourist App Version 1.0\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Zeph3ron\Documents\Visual Studio 2013\Projects\touristappversion2\Tourist App Version 1.0\obj\Debug\Tourist App Version 1.0.exe
+C:\Users\Zeph3ron\Documents\Visual Studio 2013\Projects\touristappversion2\Tourist App Version 1.0\obj\Debug\Tourist App Version 1.0.pdb
+C:\Users\Zeph3ron\Documents\Visual Studio 2013\Projects\touristappversion2\Tourist App Version 1.0\obj\Debug\priconfig.xml
+C:\Users\Zeph3ron\Documents\Visual Studio 2013\Projects\touristappversion2\Tourist App Version 1.0\obj\Debug\priconfig.xml.intermediate
+C:\Users\Zeph3ron\Documents\Visual Studio 2013\Projects\touristappversion2\Tourist App Version 1.0\obj\Debug\layout.resfiles
+C:\Users\Zeph3ron\Documents\Visual Studio 2013\Projects\touristappversion2\Tourist App Version 1.0\obj\Debug\layout.resfiles.intermediate
+C:\Users\Zeph3ron\Documents\Visual Studio 2013\Projects\touristappversion2\Tourist App Version 1.0\obj\Debug\resources.resfiles
+C:\Users\Zeph3ron\Documents\Visual Studio 2013\Projects\touristappversion2\Tourist App Version 1.0\obj\Debug\resources.resfiles.intermediate
+C:\Users\Zeph3ron\Documents\Visual Studio 2013\Projects\touristappversion2\Tourist App Version 1.0\obj\Debug\pri.resfiles
+C:\Users\Zeph3ron\Documents\Visual Studio 2013\Projects\touristappversion2\Tourist App Version 1.0\obj\Debug\pri.resfiles.intermediate
+C:\Users\Zeph3ron\Documents\Visual Studio 2013\Projects\touristappversion2\Tourist App Version 1.0\obj\Debug\qualifiers.txt
+C:\Users\Zeph3ron\Documents\Visual Studio 2013\Projects\touristappversion2\Tourist App Version 1.0\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Zeph3ron\Documents\Visual Studio 2013\Projects\touristappversion2\Tourist App Version 1.0\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Zeph3ron\Documents\Visual Studio 2013\Projects\touristappversion2\Tourist App Version 1.0\obj\Debug\ProjectArchitectures.txt
