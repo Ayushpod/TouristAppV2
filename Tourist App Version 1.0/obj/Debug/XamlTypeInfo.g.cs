@@ -670,5 +670,3 @@ namespace Tourist_App_Version_1._0.Tourist_App_Version_1_0_XamlTypeInfo
 }
 
 
-
-
